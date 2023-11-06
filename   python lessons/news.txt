@@ -1,0 +1,30 @@
+FAA authorizes Zipline to deliver commercial packages using drones (faa.gov)    https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight
+Add extra stuff to a “standard” encoding? Sure, why not (rachelbythebay.com)    https://rachelbythebay.com/w/2023/09/19/badlib/
+Can’t send email more than 500 miles (2002) (web.mit.edu)    https://web.mit.edu/jemorris/humor/500-miles
+100 Parking Tickets (2004) (100parkingtickets.com)    https://100parkingtickets.com/
+First automatic JPEG-XL cloud service (gumlet.com)    https://www.gumlet.com/blog/jpeg-xl/
+A simple web server written in Awk (github.com/crossbowerbt)    https://github.com/crossbowerbt/awk-webserver
+Programming is hard (myme.no)    https://myme.no/posts/2023-09-19-programming-is-hard.html
+Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions (q-transformer.github.io)    https://q-transformer.github.io/
+Getting into Pinball (tynan.com)    https://tynan.com/pinball/
+A small community of unofficial Apple technicians in Cuba (restofworld.org)    https://restofworld.org/2023/underground-apple-techs-cuba/
+Fixing for loops in Go 1.22 (go.dev)    https://go.dev/blog/loopvar-preview
+Aldous Huxley's Deep Reflection (mitpress.mit.edu)    https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/
+Chonky Menu Re-Creation (nathanmanousos.com)    https://www.nathanmanousos.com/posts/chonky-menu
+Show HN: Symphony – Use GPT-4 to call functions in sequence (symphony.run)    https://www.symphony.run/
+Ruby 3.3's YJIT Runs Shopify's Production Code 15% Faster (railsatscale.com)    https://railsatscale.com/2023-09-18-ruby-3-3-s-yjit-runs-shopify-s-production-code-15-faster/
+Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco) (etleap.com)    https://etleap.com/careers/software-engineer/
+RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1) (eranstiller.com)    https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1
+Smashing the state machine: the true potential of web race conditions (portswigger.net)    https://portswigger.net/research/smashing-the-state-machine
+Show HN: A reference implementation of Turing's paper “On Computable Numbers” (github.com/planetlambert)    https://github.com/planetlambert/turing
+Show HN: Cheq UPI – India's first UPI payments app for foreigners (chequpi.com)    https://www.chequpi.com/
+A closer look at BookCorpus, a key dataset in machine learning (towardsdatascience.com)    https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650
+Pink diamonds erupted to Earth’s surface after early supercontinent’s breakup (scientificamerican.com)    https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/
+Snowden leak: Cavium networking hardware may contain NSA backdoor (twitter.com/matthew_d_green)    https://twitter.com/matthew_d_green/status/1703959863796158678
+Permazen: a different persistence layer for Java (github.com/permazen)    https://github.com/permazen/permazen
+Exploring the Halo 1 System Link Protocol (hllmn.net)    https://hllmn.net/blog/2023-09-18_h1x-net/
+My trip to the Communication and Laptop Museum in Estonia (ounapuu.ee)    https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/
+Writing HTML by hand (simblob.blogspot.com)    https://simblob.blogspot.com/2023/09/writing-html-by-hand.html
+Quantum Resistance and the Signal Protocol (signal.org)    https://signal.org/blog/pqxdh/
+ReinetteII+.py, an Apple II plus emulator in Python (github.com/arthurferreira2)    https://github.com/ArthurFerreira2/reinette-II-plus-dot-py
+Show HN: Liz – Collaborative Lisp coding on Discord (github.com/d4ckard)    https://github.com/d4ckard/liz
